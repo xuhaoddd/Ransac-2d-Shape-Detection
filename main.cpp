@@ -1,5 +1,5 @@
-#include<cv.h>
-#include<highgui.h>
+#include<cv.hpp>
+#include<highgui.hpp>
 #include<iostream>
 #include<io.h>
 #include"ransac_line2d.h"
