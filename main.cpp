@@ -403,9 +403,9 @@ bool testCircle2dMultiPlus()
 
 int main()
 {
-	testEllipse2dMulti();
+	//testEllipse2dMulti();
 	
-	testCircle2dMulti();
+	//testCircle2dMulti();
 	
 	testLine2dMulti();
 
